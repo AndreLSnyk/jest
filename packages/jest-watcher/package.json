@@ -11,7 +11,7 @@
     "ansi-escapes": "^4.2.1",
     "chalk": "^4.0.0",
     "jest-util": "^26.1.0",
-    "string-length": "^4.0.1"
+    "string-length": "^5.0.0"
   },
   "repository": {
     "type": "git",
